@@ -1,3 +1,5 @@
+package edu.cnm.deepdive;
+
 import java.util.*;
 import java.lang.Math;
 
