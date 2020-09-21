@@ -8,4 +8,5 @@
                     * InputConverter
                         A converter that repeatedly takes input from the user converting Celsius to Fahrenheit, until the user a blank value.
                         ## Flowgorithm
-                        *Clesius to fahrenheit
+                        *Clesius to Fahrenheit Converter.fprg   
+                        Source flowchart for edu.cnm.deepdive.InputConverter
